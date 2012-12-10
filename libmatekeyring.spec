@@ -86,3 +86,14 @@ NOCONFIGURE=yes ./autogen.sh
 %{_libdir}/pkgconfig/*
 %doc %{_datadir}/gtk-doc/html/mate-keyring
 
+
+
+%changelog
+* Fri Jul 27 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.4.0-1
++ Revision: 811372
+- new version 1.4.0
+
+* Thu May 31 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.2.0-1
++ Revision: 801616
+- imported package libmatekeyring
+
